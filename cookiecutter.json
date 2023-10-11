@@ -1,0 +1,7 @@
+{
+  "full_name": "",
+  "email": "",
+  "package_name": "xyrha-software-library",
+  "__import_name": "{{ cookiecutter.package_name.replace('-', '_') }}",
+  "package_short_description": "A universal python library that helps with a lot of things."
+}
